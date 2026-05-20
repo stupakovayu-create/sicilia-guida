@@ -60,7 +60,7 @@ const SiestaAlert = () => {
       borderBottomLeftRadius: '12px',
       borderBottomRightRadius: '12px'
     }}>
-      <span>⏳ Сиеста (Время: {debugTime} | Минуты: {rawMinutes})! Магазины закрыты до 16:30.</span>
+      <span>⏳ (Время: {debugTime}) - Сиеста! Магазины закрыты до 16:30.</span>
       
       <button 
         onClick={() => setIsDismissed(true)}
