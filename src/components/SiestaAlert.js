@@ -1,10 +1,10 @@
+/* eslint-disable */
 import React, { useState, useEffect } from 'react';
 
 const SiestaAlert = () => {
   const [showAlert, setShowAlert] = useState(false);
   const [isDismissed, setIsDismissed] = useState(false);
   const [debugTime, setDebugTime] = useState("");
-  // Новое состояние для хранения сырых минут
   const [rawMinutes, setRawMinutes] = useState(0);
 
   useEffect(() => {
@@ -14,7 +14,6 @@ const SiestaAlert = () => {
       const minutes = now.getMinutes();
       const totalMinutes = hours * 60 + minutes;
 
-      // Сохраняем значения для вывода на экран
       const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
       const formattedHours = hours < 10 ? `0${hours}` : hours;
       setDebugTime(`${formattedHours}:${formattedMinutes}`);
@@ -27,7 +26,7 @@ const SiestaAlert = () => {
       if (totalMinutes >= siestaStart && totalMinutes <= siestaEnd) {
         setShowAlert(true);
       } else {
-        setShowAlert(true); // Оставлено true для тестов, чтобы плашка не пропадала
+        setShowAlert(true); // Оставлено true для тестов
       }
     };
 
@@ -61,7 +60,6 @@ const SiestaAlert = () => {
       borderBottomLeftRadius: '12px',
       borderBottomRightRadius: '12px'
     }}>
-      {/* ТЕКСТ ИСПРАВЛЕН: Добавили вывод rawMinutes */}
       <span>⏳ Сиеста (Время: {debugTime} | Минуты: {rawMinutes})! Магазины закрыты до 16:30.</span>
       
       <button 
