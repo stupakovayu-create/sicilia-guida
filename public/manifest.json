@@ -1,0 +1,22 @@
+{
+  "short_name": "Sicilia Guida",
+  "name": "Sicilia Guida — Тревел-гайд по Сицилии",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5e9d4",
+  "theme_color": "#d46a6a",
+  "description": "Интерактивный PWA-гайд по Сицилии: Палермо, рынки, еда, нетуристические места",
+  "icons": [
+    {
+      "src": "assets/icons/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait"
+}
