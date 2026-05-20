@@ -70,6 +70,7 @@ export const tabs = [
       <h3>6. <a href="https://maps.app.goo.gl/8MfZhtjdmE2d9kbz7" target="_blank" rel="noreferrer"> Квартал Кальса</a> и <a href="https://maps.app.goo.gl/8XtLJeBoB8uhoLoP8" target="_blank" rel="noreferrer"> Lo Spasimo</a></h3>
       <p><strong>Зачем идти:</strong> Увидеть, как руины становятся искусством.</p>
       <p><strong>На что смотреть:</strong> Церковь Санта-Мария-делло-Спазимо, где вместо сводов — открытое небо, а внутри растет огромное дерево. В квартале ищите огромный мурал с изображением судей Фальконе и Борселлино — борцов с мафией.</p>
+      <p><small>⏱ Время работы: Круглосуточно.</small></p>
     `
   },
   {
@@ -83,24 +84,30 @@ export const tabs = [
       <p>Главная открытка города. Панорама куполов на фоне гор. Вы идете прямо по карнизу над главным нефом.</p>
       <p><strong>Как попасть:</strong> На кассе собора купите билет именно на «Tetti» (около 7€). Касса закрывается за 30–45 минут до конца работы.</p>
       <p class="tip-box">💡 <strong>Совет:</strong> Идите за час до заката («золотой час»), когда свет мягко ложится на камни и город окрашивается в розовый.</p>
+      <p><small>⏱ Время работы: Пн–Сб 09:30–13:25, Вс 09:00–12:25.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/6r7Bf5NoqXYn97no7" target="_blank" rel="noreferrer"> Парадная лестница театра Массимо (Teatro Massimo)</a></h3>
       <p>Ракурс снизу вверх сидя на огромных ступенях между двумя бронзовыми львами подчеркивает величие колонн.</p>
       <p><strong>Как попасть:</strong> Piazza Verdi. Билет не нужен, лестница доступна всегда. Чтобы в кадре не было толп, приходите к 8–9 часам утра.</p>
+      <p><small>⏱ Время работы: Круглосуточно.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/doeACTQGDTnfm4Rm8" target="_blank" rel="noreferrer"> Площадь Претория (Piazza Pretoria)</a></h3>
       <p><strong>Идеальный кадр:</strong> Встаньте на углу Via Maqueda и Piazza Pretoria. Фотографируйте через кованую решетку, чтобы в одном кадре были и статуи «Фонтана стыда», и купол церкви Сан-Джузеппе-деи-Театини.</p>
+      <p><small>⏱ Время работы: Круглосуточно.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/PoHAwppjYq6wdcRQ8" target="_blank" rel="noreferrer"> Кваттро Канти (Quattro Canti)</a></h3>
       <p>Вертикальное фото одного из вогнутых фасадов. Если есть широкоугольный объектив, встаньте в самый центр перекрестка и снимите «восьмиугольник» неба. Осторожно: следите за повозками с лошадьми!</p>
+      <p><small>⏱ Время работы: Круглосуточно.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/WHNddnJC1SYb251r5" target="_blank" rel="noreferrer"> Ботанический сад (Orto Botanico)</a></h3>
       <p>Огромный фикус (Ficus Macrophylla) с воздушными корнями выглядит как сказочный тропический лес. Также красив центральный корпус Gymnasium.</p>
       <p><strong>Как попасть:</strong> Via Lincoln, 2. Вход платный (около 6€).</p>
+      <p><small>⏱ Время работы: Пн–Сб 09:00–20:00, Вс 10:00–20:00.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/bzWPHBXeca6pXAcdA" target="_blank" rel="noreferrer"> Секретный вид из бара: Seven Restaurant</a></h3>
       <p>Для фото с бокалом и видом на миллион. Вы сидите на террасе, а прямо перед вами на уровне глаз – купола церквей Марторана и Сан-Катальдо.</p>
       <p><strong>Как попасть:</strong> Via Roma, 111 (Hotel Ambasciatori). Поднимайтесь на лифте на последний этаж. Столик на аперитив лучше бронировать заранее.</p>
+      <p><small>⏱ Время работы: Пн–ВС 18:00–23:30.</small></p>
     `
   },
   {
@@ -148,7 +155,7 @@ export const tabs = [
         <h4>• <a href="https://maps.app.goo.gl/GWithdCjrG7hxJjJ9" target="_blank" rel="noreferrer">Bar Touring</a></h4>
         <p>Заведение прославилось своими Arancina Bomba – огромными рисовыми шарами невероятных размеров. Отличный способ быстро вернуться к жизни.</p>
         <a href="https://bartouring.it" target="_blank" rel="noreferrer">сайт</a>
-        <p><small>⏱ Время работы: 04:00 – 00:00.</small></p>
+        <p><small>⏱ Время работы: 04:00 – 12:00.</small></p>
       </div>
 
       <div class="geo-item">
@@ -225,25 +232,27 @@ export const tabs = [
 
       <h3>• <a href="https://maps.app.goo.gl/hDNrneRUvEvqsEZm9" target="_blank" rel="noreferrer"> Stanze al Genio (Музей плитки)</a></h3>
       <p>Частный дом-музей, где собрана самая большая в Европе коллекция старинной сицилийской майолики (более 5000 плиток), развешанных по стенам жилой квартиры градостроителя.</p>
-      <p><small>📍 Адрес: Via Garibaldi, 11 (нужна предварительная запись).</small></p>
+      <p><small>⏱ Время работы: Вт: 16:00 – 18:30, Ср-Вс: 10:00-12:30, 16:00-18:30 (Пн – выходной).</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/DDexU2BSTb2gGsCb9" target="_blank" rel="noreferrer"> Camera delle Meraviglie (Комната чудес)</a></h3>
       <p>Крошечная комната в частной квартире, полностью расписанная арабской вязью на ярко-синем фоне, обнаруженная случайно во время ремонта под слоем штукатурки.</p>
-      <p><small>📍 Адрес: Via Giuseppe Garibaldi (экскурсии проводят сами хозяева).</small></p>
+      <p><small>⏱ Время работы: По договоренности по предварительной записи через <a href="https://terradamare.org/camera-delle-meraviglie-visite/" target="_blank" rel="noreferrer">  сайт.</a></small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/Ve18ukGQC5sHceR97" target="_blank" rel="noreferrer"> Oratorio di San Lorenzo (Ораторий Сан-Лоренцо)</a></h3>
       <p>Снаружи неприметно, внутри – ослепительно белая лепнина Джакомо Серпотты, похожая на взбитые сливки. Здесь висит высокотехнологичная копия шедевра Караваджо, оригинал которого в 1969 году похитила мафия.</p>
+      <p><small>⏱ Время работы: Ежедневно: 10:00 – 18:00.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/P24Hqoy3ZhyMMTyXA" target="_blank" rel="noreferrer"> •	I Tetti della Cattedrale (Крыши Собора)</a></h3>
       <p>Вы поднимаетесь на крышу по узким лестницам и идете прямо по карнизу. Отсюда лучший вид на «купольный» горизонт Палермо и гору Монте-Пеллегрино.</p>
+      <p><small>⏱ Время работы: Пн–Сб 09:30–13:25, Вс 09:00–12:25.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/kDUPrAaP1yTqUHys8" target="_blank" rel="noreferrer"> Palazzo Conte Federico</a></h3>
       <p>Один из немногих дворцов, где до сих пор живет настоящая аристократическая семья – потомки Фридриха II. Рядом с доспехами стоят личные вещи графа, который сам иногда ведет экскурсию.</p>
-      <p><small>📍 Адрес: Via Biscottari, 4.</small></p>
+      <p><small>⏱ Время работы: Чт-Вт: 11:00 – 15:00 (Ср – выходной).</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/r2eh5NVZFMRfgbqd9" target="_blank" rel="noreferrer"> Palazzo Butera</a></h3>
       <p>Огромный дворец на набережной, превращенный в центр современного искусства. Потрясающая терраса с видом на море и залы, где старина встречается с дерзким артом.</p>
-      <p><small>📍 Адрес: Via Butera, 8.</small></p>
+      <p><small>⏱ Время работы: Вт-Вс: 10:00 – 20:00 (Пн – выходной).</small></p>
     `
   },
   {
@@ -259,11 +268,11 @@ export const tabs = [
 
       <h3>• <a href="https://maps.app.goo.gl/4kj7ivj6MRyDh5b67" target="_blank" rel="noreferrer"> Монделло (Mondello) – Сицилийская Ривьера</a></h3>
       <p>Элитный курорт в стиле модерн (Liberty). Главный символ – Charleston, роскошное здание купальни на сваях прямо в центре лазурного залива. Рядом находится природный заповедник Капо Галло с чистейшей водой для снорклинга.</p>
-      <p><small>⏱ Заповедник открыт: 08:00–20:00.</small></p>
+      <p><small>⏱ Время работы: 08:00–20:00.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/1UbB3HjWt8YDkCvV7" target="_blank" rel="noreferrer"> Чефалу (Cefalù) – Кинематографичный город</a></h3>
       <p>Один из самых красивых малых городов Италии, зажатый между морем и скалой Ла-Рокка. Здесь снимали «Новый кинотеатр Парадизо». Посетите средневековую прачечную (Lavatoio Medievale), вырубленную в скале, и поднимитесь на скалу к руинам храма Дианы.</p>
-      <p><small>⏱ Собор: 08:30–12:30, 15:30–18:00. Прачечная открыта до 20:00.</small></p>
+      <p><small>⏱ Время работы: 08:30–12:30, 15:30–18:00. Прачечная открыта до 20:00.</small></p>
     `
   },
   {
@@ -279,9 +288,11 @@ export const tabs = [
 
       <h3>• <a href="https://maps.app.goo.gl/jJ8ThXKLVseNK32s6" target="_blank" rel="noreferrer"> Скала-деи-Турки (Scala dei Turchi)</a></h3>
       <p>Ослепительно белая скала в форме лестницы, уходящей в море. Рядом расположен классный сырный бар <a href="https://loungebeach.it" target="_blank" rel="noreferrer">Lounge Beach</a>.</p>
+      <p><small>⏱ Время работы: Круглосуточно </small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/i5HDJqpX2KTHNfiv7" target="_blank" rel="noreferrer"> Лагуна делло Станьоне (Stagnone di Marsala)</a></h3>
       <p>Розовая вода, соляные мельницы и горы соли. Берите лодку до острова Моция. На закате загляните на террасу <a href="https://mammacaura.it" target="_blank" rel="noreferrer">Mamma Caura</a> пить вино Marsala Superiore.</p>
+      <p><small>⏱ Время работы: Круглосуточно </small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/NGKQroz5gVJdTB9Y9" target="_blank" rel="noreferrer"> Театр Андромеда (Teatro Andromeda)</a></h3>
       <p>Самый высокий мистический театр в мире (1000 м). 108 каменных сидений повторяют созвездие Андромеды. Переночевать или пообедать домашней рикоттой рядом можно на ферме <a href="https://agriturismoserramoneta.it" target="_blank" rel="noreferrer">Agriturismo Serra Moneta</a>.</p>
@@ -289,12 +300,15 @@ export const tabs = [
 
       <h3>• <a href="https://maps.app.goo.gl/ZkNo8HQkQGM7ALhCA" target="_blank" rel="noreferrer"> Театр Таормины (Teatro Antico di Taormina)</a></h3>
       <p>Единственный театр в мире, где декорацией служит действующий вулкан Этна. Обязательно загляните в Таормине в знаменитый <a href="https://bambar.it" target="_blank" rel="noreferrer">Bam Bar</a> на миндальную граниту со сливками и бриошью.</p>
+      <p><small>⏱ Время работы: 10:00–20:00.</small></p>
 
       <h3>• <a href="https://maps.app.goo.gl/fDxG69qXYkTLGAv2A" target="_blank" rel="noreferrer"> Средневековый Эриче (Erice)</a></h3>
       <p>Город в облаках на высоте 750 м. Попробуйте пирожки с кремом Genovesi в легендарной кондитерской кондитера Марии <a href="https://mariagrammatico.it" target="_blank" rel="noreferrer">Maria Grammatico</a>.</p>
+      <p><small>⏱ Время работы: Круглосуточно </small></p>
 
-      <h3>• <a href="https://maps.app.goo.gl/tgeBU4a6QtTiKJ6dA" target="_blank" rel="noreferrer"> Вилла дель-Казале (Piazza Armerina)</a></h3>
+      <h3>• <a href="https://maps.app.goo.gl/LspSTm1g5FKLBKAV8" target="_blank" rel="noreferrer"> Вилла дель-Казале (Piazza Armerina)</a></h3>
       <p>Римская вилла IV века с мозаиками «девушки в бикини». Пообедать неподалеку можно в ресторане на старой ж/д станции <a href="https://alfogher.it" target="_blank" rel="noreferrer">Al Fogher</a>.</p>
+      <p><small>⏱ Время работы: 09:00–18:00.</small></p>
     `
   },
   {
