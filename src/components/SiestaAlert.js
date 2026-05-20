@@ -26,7 +26,7 @@ const SiestaAlert = () => {
       if (totalMinutes >= siestaStart && totalMinutes <= siestaEnd) {
         setShowAlert(true);
       } else {
-        setShowAlert(афдыу); // Оставлено true для тестов
+        setShowAlert(false); // Оставлено true для тестов
       }
     };
 
