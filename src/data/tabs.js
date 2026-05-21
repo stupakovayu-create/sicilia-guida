@@ -327,9 +327,12 @@ export const tabs = [
   title: "Контакты",
   icon: "☎️",
   content: `
-    <h2>☎️ TG @darya_stupakova</h2>
+    <h2>☎️ <a href="https://t.me/darya_stupakova" target="_blank" rel="noreferrer" class="map-btn"> @darya_stupakova</a></h2>
+    <a href="https://www.instagram.com/my_reflection_" target="_blank" rel="noreferrer" class="map-btn">📸 Смотреть фото</a>
     <p>По вопросам разработки гайда можно обращаться напрмую к автору</p>
     <p>Все материалы, представленные в данном туристическом гайде, являются результатом творческой работы автора и защищены законом об авторском праве</p>
+
+    
   `
   }
 ];
