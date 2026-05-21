@@ -318,8 +318,18 @@ export const tabs = [
     content: `
       <h2>📍 Интерактивные карты</h2>
       <p>Мы собрали все точки на Google Maps, чтобы вам было удобно ориентироваться прямо во время прогулки.</p>
-      <a href="https://maps.app.goo.gl/SKRRPwnrdDhJHPJCA" target="_blank" rel="noreferrer" class="map-btn">🗺 Открыть карту Палермо</a>
+      <a href="https://maps.app.goo.gl/SKRRPwnrdDhJHPJCA" target="_blank" rel="noreferrer" class="map-btn">🗺 Открыть карту Сицилии</a>
       <a href="https://maps.app.goo.gl/UcVNQCtAWGPk2oEs6" target="_blank" rel="noreferrer" class="map-btn style-food">🍝 Карта ресторанов и кафе</a>
     `
+  },
+  {
+  id: 11,
+  title: "Контакты",
+  icon: "☎️",
+  content: `
+    <h2>☎️ TG @darya_stupakova</h2>
+    <p>По вопросам разработки гайда можно обращаться напрмую к автору</p>
+    <p>Все материалы, представленные в данном туристическом гайде, являются результатом творческой работы автора и защищены законом об авторском праве</p>
+  `
   }
 ];
